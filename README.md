@@ -2,12 +2,7 @@
 
 ## 📝 Description
 This project aims to broaden your knowledge of system administration by using Docker.
-You will virtualize several Docker images
-
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+You will virtualize several Docker images .
 
 ## 📂 Directory Structure
 ```
