@@ -56,12 +56,12 @@ docker exec -it container_name bash
 
 
 ## 👤 Contributors
-- **salah-Eddine Diouane** - [GitHub](https://github.com/salah-diouane)
+- **Salah-Eddine Diouane** - [GitHub](https://github.com/salah-diouane)
 
 ## 📜 License
 This project is licensed under the MIT License.
 
 ## 📚 Resources
-- [Medium]((https://medium.com/@salahdiouane964/8e0ad67e0eb4))
+- [Medium](https://medium.com/@salahdiouane964/8e0ad67e0eb4)
 - [Docker Documentation](https://docs.docker.com/)
 
